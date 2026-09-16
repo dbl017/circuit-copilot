@@ -236,6 +236,7 @@ desktop.ini
 *.key
 secrets.*
 credentials.*
+!.env.example
 
 # KiCad backup / autosave / temp artifacts
 # NOTE: legitimate KiCad project source files (.kicad_pro, .kicad_sch,

@@ -2,28 +2,39 @@
 
 **Milestone:** M0 — Foundations
 
-**Goal:** Establish repository and development workflow.
+**Status:** Development environment setup.
 
-**Currently Learning:**
+**Completed:**
 
-- Git
-- GitHub
-- Repository structure
-- Commits
-- Branches
-- KiCad fundamentals
+- GitHub repository initialized
+- Repository cloned locally
+- Project documentation/scaffolding established
+- DAMNED added as the first realistic KiCad sample project (`sample-projects/DAMNED project demo/`)
+- Local Python virtual environment configured (`.venv`, Python 3.13.1)
+- `.gitignore` verified for Python/KiCad development hygiene
 
-**Next:**
+**Current Environment:**
 
-1. Finish repository initialization.
-2. Verify local Git/GitHub workflow.
-3. Install/configure development environment.
-4. Create first simple KiCad project.
-5. Learn the KiCad schematic -> PCB workflow.
+- Windows
+- PowerShell
+- Python 3.13.1
+- KiCad 10.0
+- VS Code
+- Git/GitHub
 
-**Blocked:**
+**Next: M1 — Hello KiCad**
 
-None.
+1. Understand the KiCad IPC API conceptually.
+2. Enable/verify the KiCad API in KiCad 10.
+3. Install the official `kicad-python` package.
+4. Write the smallest possible Python connection test.
+5. Connect to a running KiCad instance.
+6. Detect/read the active DAMNED board.
+7. Begin exploring KiCad objects.
+
+M1 should be worked through progressively as a learning exercise, not generated automatically.
+
+**Blocked:** None.
 
 ---
 

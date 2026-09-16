@@ -4,7 +4,7 @@ Tracks progress against `ROADMAP.md`. Update the status and add a short note whe
 
 | Milestone | Description | Status | Notes |
 |---|---|---|---|
-| M0 | Foundations | In Progress | Repository initialized. Next: first KiCad PCB project. |
+| M0 | Foundations | In Progress | Repo, docs, local Python env (.venv, Python 3.13.1), and the DAMNED KiCad sample project are all in place. Remaining before M0 is done: hands-on schematic -> PCB familiarity in KiCad 10 itself. |
 | M1 | Hello, KiCad | Not Started | |
 | M2 | Object Awareness | Not Started | |
 | M3 | Clicky UI | Not Started | |
